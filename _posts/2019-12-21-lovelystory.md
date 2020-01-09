@@ -1,8 +1,7 @@
 ---
 layout: post
-tags: machine-learning python numpy scikit-learn
+tags: stories
 date: 2019-12-21 00:00
-thumbnail: http://placehold.it/100x100
 title: 二哥要的爱情故事
 published: true
 ---
