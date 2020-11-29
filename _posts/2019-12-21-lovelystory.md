@@ -5,12 +5,16 @@ date: 2019-12-21 00:00
 title: 二哥要的爱情故事
 published: true
 ---
-一二三一二三一二三一二三一二三一二三
+
 
 <!--more-->
 * 一个和尚挑水喝
 * 两个和尚不喝**水**
 
-Lorem ipsum dolor sit amet, vivamus quis, urna ligula, aliquet wisi fermentum pellentesque. Vestibulum euismod erat urna vestibulum, per cras tempus bibendum vestibulum, cras a, mus et. Ultrices adipiscing dolor, pellentesque neque nunc eros, sit etiam quam a. Mattis magna sem sed faucibus, luctus nec egestas mauris et in est, quam libero, facilisis metus tempor dolor aenean, cursus eget venenatis faucibus lectus ante. Et ac qui et scelerisque ac, nulla in, rhoncus a imperdiet, dui ac eu euismod sed sit libero. Felis mauris quis magna felis inceptos, non magna praesent velit enim tellus et. Sed ultricies per ac ipsum pellentesque nascetur, scelerisque habitant eget cras, leo est donec. Repellat viverra pulvinar in, eros sed ipsum est, quis turpis ridiculus porttitor lectus est et, est dapibus arcu non mauris tellus. Consequat neque est donec omnis ut odio, semper a faucibus mus purus.
 
-Tortor a velit elementum, tortor condimentum lectus turpis faucibus, amet praesent id wisi, amet phasellus, scelerisque venenatis a sed massa vitae ac. Sed ridiculus, nec sed nulla. Ut volutpat mauris vestibulum sit risus, viverra at montes nec, luctus hendrerit lectus ipsum, mollis eleifend, ipsum dictumst turpis fringilla. Magna sunt at sed, bibendum risus ut dolorem ut nam sed, non et, integer eros non justo, nulla sed erat diam magna. Sed nulla massa pellentesque. Sed augue fames ut at amet, ultrices ante litora maecenas, quam nullam tristique aenean volutpat rutrum eget, suspendisse vestibulum vel, et massa commodo ante dolor.
+
+* 神说要有光，于是就有了光。
+
+* 世界上最难的应用题  
+读书的时候特别怕做“税费”的应用题。题目中总说：“800元以下的不交税，800元以上的部分交税,...”。这个题目我读起来是这样断句的：“800元以上的，部分交税”。那么小明收入1000元，交税多少呢？我觉得小明也不是什么富人，超出800元的200元中，就只收100元部分的税费吧。  
+因为我心地善良低去收税，这题目我是从来做不对的。直到上了高中，教数学的胡老师终于搞清楚了原因，然后细细的给我讲了一下。我回去时老师对我说：这么多年，难为你了。
