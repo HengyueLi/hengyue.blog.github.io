@@ -2,19 +2,24 @@
 layout: post
 tags: music theory
 date: 2020-06-25 10:00
-title: Note`:` 音乐理论
+title: 乐理
 published: true
 ---
+十二平均律，大调和小调，五线谱速读
+
+<!--more-->
 
 
 # 十二平均律
 取任意一个频率f的音为基准，可以定义为do。则2f的音被定义为高8度的do。f的十二次根号2倍为一个“半音阶”。两个半音阶为一个全音，此为十二平均律。这里出现几个量词：8和12。从基准do出发到到高音do总间隔为12个半音阶但是却被称为8度的原因是do,re,...,la,xi,do[.]（或者音名表示成CDEFGAB[C.]）这八个音在12个阶位上不是均匀分布的。此结论很好验证，随便取一段旋律将旋律按照1234567平移一个或几个音来弹奏一下就能听出来旋律变形了。这几个音在12平均律上的实际分布如下图：
-![test](https://bkimg.cdn.bcebos.com/pic/0b46f21fbe096b6300e5207b09338744ebf8ac19?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5)
+![Equal_temperament](https://i0.wp.com/www.leedsharmonica.uk/wp-content/uploads/2018/02/cirlcle-of-5ths.png?resize=768%2C716&ssl=1)
 所以如果将某段旋律向左平移1个单位，那么D不是变成C,而是变成#C。
 
 # 大调和小调
 在钢琴键盘上，相邻两个键（无论黑白）之间间隔为“半音”，也就是半个全音。例如中音do和re之间为一个全音，mi和fa之间为半音。定义一个大调的调式为：“全全半全全全半”。
-![numbered-keyboard](https://gss0.baidu.com/9fo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/a50f4bfbfbedab64895e1eb1f336afc379311e96.jpg)
+<img src="https://gss0.baidu.com/9fo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/a50f4bfbfbedab64895e1eb1f336afc379311e96.jpg" width="640" height="160"/>]
+
+
 
 比如说最常见的C大调，就是以中央do的白键出发，第一个键是中央C(因为是C大调),也就是图中c1的键。根据“全全半全全全半”的规则，下一个是“全”，也就是走2个半音，于是落到d1的键上（注意前面说过不论黑板键都是一个半音）。再下一个还是“全”，所以落到e1上。第三个是“半”，e1的下一个半音阶正好是f1。依此类推，C大调的那几个音阶就落在图中c1,d1,e1,f1,g1,a1,b1,c2上。
 
